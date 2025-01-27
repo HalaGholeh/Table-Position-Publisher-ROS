@@ -1,4 +1,4 @@
-# TableManager-Tkinter-ROS
+# Table-Posestion-Publisher-ROS
 
 ## Overview
 This project is a ROS2-based application that allows users to manage and control the positions and orientations of tables in a restaurant environment. The application provides a graphical user interface (GUI) for adding, selecting, and removing tables, and publishes the corresponding positions and orientations to a ROS2 topic.
